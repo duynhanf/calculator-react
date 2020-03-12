@@ -1,2 +1,2 @@
 
-# calculator-vue
+# calculator-react
