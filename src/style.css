@@ -1,0 +1,11 @@
+h1, p {
+  font-family: Lato;
+}
+
+.ele {
+  display : inline-block;
+  /* margin-right: 10px; */
+  margin: 1px;
+  width: 33.33px;
+  height: 33.33px;
+}
